@@ -57,7 +57,7 @@
       <div id="leftSide" style="padding-top:30px;">
          <!-- Account panel -->
          <div class="sideProfile">
-            <a href="#" title="" class="profileFace"><img width="40" src="images/user.png" /></a>
+            <a href="#" title="" class="profileFace"><img width="40" src="<?php echo base_url() ?>public/admin/images/user.png" /></a>
             <span>Xin chào: <strong>admin!</strong></span>
             <span>APTECH</span>
             <div class="clear"></div>
